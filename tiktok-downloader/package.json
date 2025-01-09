@@ -1,0 +1,19 @@
+{
+  "name": "reikerttdl",
+  "version": "1.0.0",
+  "description": "A Node.js package to fetch download links from TikTok videos using an API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["tiktok", "video", "downloader", "api", "download"],
+  "author": "Reiker",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reaperofssa/reikerttdl.git"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
